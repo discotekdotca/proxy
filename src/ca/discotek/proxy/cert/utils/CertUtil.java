@@ -1,4 +1,4 @@
-package ca.discotek.proxy.cert;
+package ca.discotek.proxy.cert.utils;
 
 
 import java.io.FileInputStream;
@@ -25,7 +25,6 @@ import javax.net.ssl.KeyManagerFactory;
 import javax.net.ssl.SSLContext;
 import javax.net.ssl.SSLSocketFactory;
 
-import ca.discotek.proxy.cert.utils.CreateCertificateAuthorityUtil;
 import sun.security.x509.AlgorithmId;
 import sun.security.x509.CertificateAlgorithmId;
 import sun.security.x509.CertificateIssuerName;

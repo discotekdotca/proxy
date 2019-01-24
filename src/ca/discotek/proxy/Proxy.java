@@ -29,7 +29,7 @@ import javax.net.ssl.SSLSocketFactory;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-import ca.discotek.proxy.cert.CertUtil;
+import ca.discotek.proxy.cert.utils.CertUtil;
 import ca.discotek.proxy.cert.utils.IOUtil;
 import ca.discotek.proxy.data.DataManager;
 import ca.discotek.proxy.vo.Message;

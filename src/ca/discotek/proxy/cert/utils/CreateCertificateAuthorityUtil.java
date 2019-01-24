@@ -12,7 +12,6 @@ import java.security.SecureRandom;
 import java.security.cert.X509Certificate;
 import java.util.Date;
 
-import ca.discotek.proxy.cert.CertUtil;
 import sun.security.x509.AlgorithmId;
 import sun.security.x509.BasicConstraintsExtension;
 import sun.security.x509.CertificateAlgorithmId;
